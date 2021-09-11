@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "522429170702",
+    "project_id": "skinclik-ec7f5",
+    "storage_bucket": "skinclik-ec7f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522429170702:android:dff160f8f88159365a685f",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522429170702-2q14mcmm22a8m78hh6o8db06rf8jsbak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJbBaFiyWWo_sRjhA7L5jL_27JQsx-lvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522429170702-2q14mcmm22a8m78hh6o8db06rf8jsbak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522429170702-0hstb4m03gj2jir7req3lmbato90nua6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skinclik"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
